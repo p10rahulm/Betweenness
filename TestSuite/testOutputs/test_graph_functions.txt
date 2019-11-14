@@ -1,0 +1,33 @@
+
+---------------------------------------------------
+TESTING GRAPH FUNCTIONS FOR GENERATING SMALL GRAPHS
+---------------------------------------------------
+
+------------GRAPH: Number of Vertices = 5------------
+-----------------------------------------------------
+
+------------GRAPH: Number of Vertices = 5------------
+
+ Adjacency list of vertex: 1, NumVertices = 2		 -> 5-> 2
+
+ Adjacency list of vertex: 2, NumVertices = 4		 -> 5-> 4-> 3-> 1
+
+ Adjacency list of vertex: 3, NumVertices = 2		 -> 4-> 2
+
+ Adjacency list of vertex: 4, NumVertices = 3		 -> 5-> 3-> 2
+
+ Adjacency list of vertex: 5, NumVertices = 3		 -> 4-> 2-> 1
+-----------------------------------------------------
+Testing Copying of Graph
+------------GRAPH: Number of Vertices = 5------------
+
+ Adjacency list of vertex: 1, NumVertices = 2		 -> 5-> 2
+
+ Adjacency list of vertex: 2, NumVertices = 4		 -> 5-> 4-> 3-> 1
+
+ Adjacency list of vertex: 3, NumVertices = 2		 -> 4-> 2
+
+ Adjacency list of vertex: 4, NumVertices = 3		 -> 5-> 3-> 2
+
+ Adjacency list of vertex: 5, NumVertices = 3		 -> 4-> 2-> 1
+-----------------------------------------------------

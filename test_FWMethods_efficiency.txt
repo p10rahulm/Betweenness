@@ -1,0 +1,169 @@
+------------------
+DOING TESTS ON RANDOM GRAPHS OF SIZE 100, with 4.605170% PROBABILITY OF EDGE
+------------------
+Time taken to build the graph is 0.000000
+Time taken to process graph without pathmatrix and without reachability is 0.000000
+Time taken to compute betweenness centrality without pathmatrix and without reachability is 0.000000
+Total time taken to compute betweenness centrality without pathmatrix and without reachability is 0.000000
+Time taken to process graph with pathmatrix and without reachability is 0.015625
+Time taken to compute betweenness centrality with pathmatrix and without reachability is 0.000000
+Total time taken to compute betweenness centrality with pathmatrix and without reachability is 0.015625
+Time taken to process graph without pathmatrix and with reachability is 0.000000
+Time taken to compute betweenness centrality without pathmatrix and with reachability is 0.000000
+Total time taken to compute betweenness centrality without pathmatrix and with reachability is 0.000000
+Time taken to process graph with pathmatrix and with reachability is 0.015625
+Time taken to compute betweenness centrality with pathmatrix and with reachability is 0.000000
+Total time taken to compute betweenness centrality with pathmatrix and with reachability is 0.015625
+
+------------------
+DOING TESTS ON RANDOM GRAPHS OF SIZE 200, with 2.649159% PROBABILITY OF EDGE
+------------------
+Time taken to build the graph is 0.000000
+Time taken to process graph without pathmatrix and without reachability is 0.031250
+Time taken to compute betweenness centrality without pathmatrix and without reachability is 0.031250
+Total time taken to compute betweenness centrality without pathmatrix and without reachability is 0.062500
+Time taken to process graph with pathmatrix and without reachability is 0.046875
+Time taken to compute betweenness centrality with pathmatrix and without reachability is 0.015625
+Total time taken to compute betweenness centrality with pathmatrix and without reachability is 0.062500
+Time taken to process graph without pathmatrix and with reachability is 0.031250
+Time taken to compute betweenness centrality without pathmatrix and with reachability is 0.046875
+Total time taken to compute betweenness centrality without pathmatrix and with reachability is 0.078125
+Time taken to process graph with pathmatrix and with reachability is 0.046875
+Time taken to compute betweenness centrality with pathmatrix and with reachability is 0.000000
+Total time taken to compute betweenness centrality with pathmatrix and with reachability is 0.046875
+
+------------------
+DOING TESTS ON RANDOM GRAPHS OF SIZE 300, with 1.901261% PROBABILITY OF EDGE
+------------------
+Time taken to build the graph is 0.015625
+Time taken to process graph without pathmatrix and without reachability is 0.109375
+Time taken to compute betweenness centrality without pathmatrix and without reachability is 0.125000
+Total time taken to compute betweenness centrality without pathmatrix and without reachability is 0.250000
+Time taken to process graph with pathmatrix and without reachability is 0.187500
+Time taken to compute betweenness centrality with pathmatrix and without reachability is 0.000000
+Total time taken to compute betweenness centrality with pathmatrix and without reachability is 0.203125
+Time taken to process graph without pathmatrix and with reachability is 0.125000
+Time taken to compute betweenness centrality without pathmatrix and with reachability is 0.125000
+Total time taken to compute betweenness centrality without pathmatrix and with reachability is 0.265625
+Time taken to process graph with pathmatrix and with reachability is 0.187500
+Time taken to compute betweenness centrality with pathmatrix and with reachability is 0.015625
+Total time taken to compute betweenness centrality with pathmatrix and with reachability is 0.218750
+
+------------------
+DOING TESTS ON RANDOM GRAPHS OF SIZE 400, with 1.497866% PROBABILITY OF EDGE
+------------------
+Time taken to build the graph is 0.000000
+Time taken to process graph without pathmatrix and without reachability is 0.312500
+Time taken to compute betweenness centrality without pathmatrix and without reachability is 0.296875
+Total time taken to compute betweenness centrality without pathmatrix and without reachability is 0.609375
+Time taken to process graph with pathmatrix and without reachability is 0.406250
+Time taken to compute betweenness centrality with pathmatrix and without reachability is 0.015625
+Total time taken to compute betweenness centrality with pathmatrix and without reachability is 0.421875
+Time taken to process graph without pathmatrix and with reachability is 0.312500
+Time taken to compute betweenness centrality without pathmatrix and with reachability is 0.296875
+Total time taken to compute betweenness centrality without pathmatrix and with reachability is 0.609375
+Time taken to process graph with pathmatrix and with reachability is 0.421875
+Time taken to compute betweenness centrality with pathmatrix and with reachability is 0.015625
+Total time taken to compute betweenness centrality with pathmatrix and with reachability is 0.437500
+
+------------------
+DOING TESTS ON RANDOM GRAPHS OF SIZE 500, with 1.242922% PROBABILITY OF EDGE
+------------------
+Time taken to build the graph is 0.000000
+Time taken to process graph without pathmatrix and without reachability is 0.625000
+Time taken to compute betweenness centrality without pathmatrix and without reachability is 0.640625
+Total time taken to compute betweenness centrality without pathmatrix and without reachability is 1.265625
+Time taken to process graph with pathmatrix and without reachability is 0.828125
+Time taken to compute betweenness centrality with pathmatrix and without reachability is 0.031250
+Total time taken to compute betweenness centrality with pathmatrix and without reachability is 0.859375
+Time taken to process graph without pathmatrix and with reachability is 0.656250
+Time taken to compute betweenness centrality without pathmatrix and with reachability is 0.578125
+Total time taken to compute betweenness centrality without pathmatrix and with reachability is 1.234375
+Time taken to process graph with pathmatrix and with reachability is 0.875000
+Time taken to compute betweenness centrality with pathmatrix and with reachability is 0.046875
+Total time taken to compute betweenness centrality with pathmatrix and with reachability is 0.921875
+
+------------------
+DOING TESTS ON RANDOM GRAPHS OF SIZE 600, with 1.066155% PROBABILITY OF EDGE
+------------------
+Time taken to build the graph is 0.000000
+Time taken to process graph without pathmatrix and without reachability is 1.125000
+Time taken to compute betweenness centrality without pathmatrix and without reachability is 1.125000
+Total time taken to compute betweenness centrality without pathmatrix and without reachability is 2.250000
+Time taken to process graph with pathmatrix and without reachability is 1.453125
+Time taken to compute betweenness centrality with pathmatrix and without reachability is 0.046875
+Total time taken to compute betweenness centrality with pathmatrix and without reachability is 1.500000
+Time taken to process graph without pathmatrix and with reachability is 1.265625
+Time taken to compute betweenness centrality without pathmatrix and with reachability is 1.140625
+Total time taken to compute betweenness centrality without pathmatrix and with reachability is 2.406250
+Time taken to process graph with pathmatrix and with reachability is 1.625000
+Time taken to compute betweenness centrality with pathmatrix and with reachability is 0.062500
+Total time taken to compute betweenness centrality with pathmatrix and with reachability is 1.687500
+
+------------------
+DOING TESTS ON RANDOM GRAPHS OF SIZE 700, with 0.935869% PROBABILITY OF EDGE
+------------------
+Time taken to build the graph is 0.000000
+Time taken to process graph without pathmatrix and without reachability is 1.890625
+Time taken to compute betweenness centrality without pathmatrix and without reachability is 1.890625
+Total time taken to compute betweenness centrality without pathmatrix and without reachability is 3.781250
+Time taken to process graph with pathmatrix and without reachability is 2.437500
+Time taken to compute betweenness centrality with pathmatrix and without reachability is 0.078125
+Total time taken to compute betweenness centrality with pathmatrix and without reachability is 2.515625
+Time taken to process graph without pathmatrix and with reachability is 2.062500
+Time taken to compute betweenness centrality without pathmatrix and with reachability is 2.015625
+Total time taken to compute betweenness centrality without pathmatrix and with reachability is 4.078125
+Time taken to process graph with pathmatrix and with reachability is 2.796875
+Time taken to compute betweenness centrality with pathmatrix and with reachability is 0.109375
+Total time taken to compute betweenness centrality with pathmatrix and with reachability is 2.906250
+
+------------------
+DOING TESTS ON RANDOM GRAPHS OF SIZE 800, with 0.835576% PROBABILITY OF EDGE
+------------------
+Time taken to build the graph is 0.015625
+Time taken to process graph without pathmatrix and without reachability is 2.828125
+Time taken to compute betweenness centrality without pathmatrix and without reachability is 3.078125
+Total time taken to compute betweenness centrality without pathmatrix and without reachability is 5.921875
+Time taken to process graph with pathmatrix and without reachability is 3.625000
+Time taken to compute betweenness centrality with pathmatrix and without reachability is 0.125000
+Total time taken to compute betweenness centrality with pathmatrix and without reachability is 3.765625
+Time taken to process graph without pathmatrix and with reachability is 3.453125
+Time taken to compute betweenness centrality without pathmatrix and with reachability is 3.093750
+Total time taken to compute betweenness centrality without pathmatrix and with reachability is 6.562500
+Time taken to process graph with pathmatrix and with reachability is 4.734375
+Time taken to compute betweenness centrality with pathmatrix and with reachability is 0.140625
+Total time taken to compute betweenness centrality with pathmatrix and with reachability is 4.890625
+
+------------------
+DOING TESTS ON RANDOM GRAPHS OF SIZE 900, with 0.755822% PROBABILITY OF EDGE
+------------------
+Time taken to build the graph is 0.000000
+Time taken to process graph without pathmatrix and without reachability is 4.171875
+Time taken to compute betweenness centrality without pathmatrix and without reachability is 4.515625
+Total time taken to compute betweenness centrality without pathmatrix and without reachability is 8.687500
+Time taken to process graph with pathmatrix and without reachability is 5.234375
+Time taken to compute betweenness centrality with pathmatrix and without reachability is 0.171875
+Total time taken to compute betweenness centrality with pathmatrix and without reachability is 5.406250
+Time taken to process graph without pathmatrix and with reachability is 5.781250
+Time taken to compute betweenness centrality without pathmatrix and with reachability is 4.531250
+Total time taken to compute betweenness centrality without pathmatrix and with reachability is 10.312500
+Time taken to process graph with pathmatrix and with reachability is 7.390625
+Time taken to compute betweenness centrality with pathmatrix and with reachability is 0.203125
+Total time taken to compute betweenness centrality with pathmatrix and with reachability is 7.593750
+
+------------------
+DOING TESTS ON RANDOM GRAPHS OF SIZE 1000, with 0.690776% PROBABILITY OF EDGE
+------------------
+Time taken to build the graph is 0.000000
+Time taken to process graph without pathmatrix and without reachability is 5.843750
+Time taken to compute betweenness centrality without pathmatrix and without reachability is 6.359375
+Total time taken to compute betweenness centrality without pathmatrix and without reachability is 12.203125
+Time taken to process graph with pathmatrix and without reachability is 7.250000
+Time taken to compute betweenness centrality with pathmatrix and without reachability is 0.234375
+Total time taken to compute betweenness centrality with pathmatrix and without reachability is 7.484375
+Time taken to process graph without pathmatrix and with reachability is 8.281250
+Time taken to compute betweenness centrality without pathmatrix and with reachability is 6.515625
+Total time taken to compute betweenness centrality without pathmatrix and with reachability is 14.796875
+Time taken to process graph with pathmatrix and with reachability is 10.093750
+Time taken to compute betweenness centrality with pathmatrix and with reachability is 0.265625
+Total time taken to compute betweenness centrality with pathmatrix and with reachability is 10.359375

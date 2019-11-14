@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Learn/C_DSA/betweennessCentrality/common_header.h
+
+E:/Learn/C_DSA/betweennessCentrality/main.c
+stdio.h
+-
+stdlib.h
+-
+common_header.h
+E:/Learn/C_DSA/betweennessCentrality/common_header.h
+
